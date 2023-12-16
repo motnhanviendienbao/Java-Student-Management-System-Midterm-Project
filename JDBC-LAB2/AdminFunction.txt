@@ -1,0 +1,22 @@
+add user function: 
+{
+	add & display
+}
+
+modify user function: 
+{
+	modify & display
+}
+
+
+delete user function: 
+{
+	delete & display
+}
+
+
+view login user function: 
+{
+	access & display
+}
+
